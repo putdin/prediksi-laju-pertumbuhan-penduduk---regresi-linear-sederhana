@@ -1,1 +1,1 @@
-# prediski-laju-pertumbumhan-penduduk---regresi-linear-sederhana
+# prediksi-laju-pertumbuhan-penduduk---regresi-linear-sederhana
